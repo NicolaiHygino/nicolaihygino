@@ -1,11 +1,8 @@
 # 👋👾 HeloOoOoo
 
-- 🚀 I’m currently working on front-end.
-- 📚 I’m currently learning NodeJS.
-- 👯 I’m looking to collaborate on open-source projects
-- 💬 Ask me about anything
+- 🚀 I’m currently working on Fullstack With Typescript/React and Java/Springboot.
+- 📚 I’m currently learning Rust.
 - 📫 How to reach me: nicolaihygino2000@gmail.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: "I Know Kung Fu..."
 ---
 
